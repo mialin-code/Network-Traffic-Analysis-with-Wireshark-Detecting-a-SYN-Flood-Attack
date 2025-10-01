@@ -69,5 +69,5 @@ To defend against SYN Flood attacks, organizations can:
 ---
 
 ## Files in This Repo
-- `Wireshark_TCP_HTTP_log.pdf` → Original network traffic log.  
+- `TCP_HTTP.pdf` → Original network traffic log.  
 - `README.md` → This analysis report.  
